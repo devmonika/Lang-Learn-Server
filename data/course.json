@@ -1,0 +1,128 @@
+[
+  {
+    "id": "c1",
+    "category_id": "01",
+    "title": "English Language Course",
+    "image_url": "https://ibb.co/nq2sw0y",
+    "details": "You will acquire the skills required for analytical language study alongside the means to apply those skills to the study of historical and present-day English. In addition, you will practise key transferable skills, such as essay writing and how to give a presentation."
+  },
+  {
+    "id": "c2",
+    "category_id": "03",
+    "title": "Korean Language Course",
+    "image_url": "https://ibb.co/g7LBFT4",
+    "details": "An intensive introduction to the Korean language. The course covers most basic grammatical structures and everyday vocabulary items, and introduces Hangul, the writing system. Practices are conducted to develop all four skills (listening, speaking, reading and writing) in meaningful communicative exercises."
+  },
+
+  {
+    "id": "c3",
+    "category_id": "01",
+    "title": "French",
+    "image_url": "https://ibb.co/5vVfJnm",
+    "details": "French is a major diplomatic language. You are bound to find speakers almost anywhere in the world. In addition to these societal reasons, there are hundreds of famous French novels and nonfiction works in a wide variety of subjects. Because much can be lost in translation, the best way to read these works is in the original language."
+  },
+  {
+    "id": "c4",
+    "category_id": "02",
+    "title": "German Language Course",
+    "image_url": "https://ibb.co/pKK0hDX",
+    "details": "German is one of the easiest languages for English speakers to learn. The differences will be tackled over the course of the lessons."
+  },
+
+  {
+    "id": "c5",
+    "category_id": "03",
+    "title": "Chinese Language Course",
+    "image_url": "https://ibb.co/0M5ysxD",
+    "details": "The Chinese languages and their dialects are characterized linguistically as isolating, or analytic, in that word units do not change due to inflection. Each Chinese character generally corresponds to exactly one syllable and one morpheme."
+  },
+  {
+    "id": "c6",
+    "category_id": "01",
+    "title": "Spanish Language Course",
+    "image_url": "https://ibb.co/ft4YhHm",
+    "details": "Spanish Language!This lesson begins with simple greetings, and covers important ideas of the Spanish Language. Throughout education, methods of teaching Spanish have changed greatly. Years ago, the Spanish Language was taught simply by memory. Today, however, the Spanish Language is taught by moving slower and covering grammar and spelling rules."
+  },
+
+  {
+    "id": "c7",
+    "category_id": "02",
+    "title": "Turkis Language Course",
+    "image_url": "https://ibb.co/wzWjFLH",
+    "details": "Turkish language belongs to the Altay branch of the Ural-Altaic linguistic family, same as Finnish and Hungarian languages. It is the westernmost of the Turkic languages spoken across Central Asia and is generally classified as a member of the South-West group, also known as the Oguz group."
+  },
+
+  {
+    "id": "c8",
+    "category_id": "03",
+    "title": "Italian Language Course",
+    "image_url": "https://ibb.co/xXg2sVL",
+    "details": "Italian is a Romance language, a descendant of Vulgar Latin (colloquial spoken Latin). Standard Italian is based on Tuscan, especially its Florentine dialect, and is therefore an Italo-Dalmatian language, a classification that includes most other central and southern Italian languages and the extinct Dalmatian."
+  },
+
+  {
+    "id": "c9",
+    "category_id": "04",
+    "title": "Arabic Language Course",
+    "image_url": "https://ibb.co/3Y4tqNf",
+    "details": "The Course provides a good insight into cultural and social topics such as the values, traditions, social life, religions and geography of the Arab World. The course helps in creating cultural awareness and a better understanding of the Arabic norms and values. The course also includes an optional cultural trip."
+  },
+  {
+    "id": "c10",
+    "category_id": "04",
+    "title": "Russian Language Course",
+    "image_url": "https://ibb.co/Pg7FQ2L",
+    "details": "Russian language classes aim at perfecting all four linguistic skills: speaking, listening, reading, and writing. Intermediate and advanced courses are taught in Russian as much as possible. Students are usually prepared for study in Russia after they have completed Intermediate Russian II."
+  },
+
+  {
+    "id": "c11",
+    "category_id": "05",
+    "title": "Japanese Language Course ",
+    "image_url": "https://ibb.co/rHtDrVs",
+    "details": "In Japanese I, students will build a solid foundation while developing the four skills of speaking, listening, reading, and writing. Students will also learn various aspects of Japanese culture and society through in-class activities, written assignments, and video viewing"
+  },
+  {
+    "id": "c12",
+    "category_id": "05",
+    "title": "Hindi Language Course",
+    "image_url": "https://ibb.co/q0NRmCF",
+    "details": "Hindi still is a mother language for many in several states of the country and English used as a medium to impart knowledge remains a great barrier. It is also been said that to ensure strong foundation skills in numeracy and literacy, the curriculum should be imparted in a language that a child understands."
+  },
+
+  {
+    "id": "c13",
+    "category_id": "02",
+    "title": "Portuguese Language Course",
+    "image_url": "https://ibb.co/KqWrPmy",
+    "details": "This course involves practice in speaking, listening comprehension, reading and writing at Intermediate level, based on the Communicative Approach. It includes grammar and extra work on vocabulary acquisition, both explored through literary texts written by renowned authors of the Portuguese-speaking world."
+  },
+  {
+    "id": "c14",
+    "category_id": "06",
+    "title": "Ukrainian Language Course",
+    "image_url": "https://ibb.co/2d71C64",
+    "details": "The aims of the course are to: Introduce students to Ukrainian pronunciation, grammar and spelling. Develop learners' confidence in engaging in everyday communication. Provide the building blocks for understanding, using and developing basic structures."
+  },
+  {
+    "id": "c15",
+    "category_id": "01",
+    "title": "Irish Language Course",
+    "image_url": "https://ibb.co/8DcjhNQ",
+    "details": "Elementary Irish is designed to foster conversational fluency and beginning reading skills in the national language of Ireland. The class is intended for anyone interested in learning Irish who has little or no familiarity with the language. This course offers a primer of present-day Irish language and is perfect for travelers. The course seeks to develop students' speaking and listening skills in Irish as well as beginning the process of learning to read and write in Gaelic."
+  },
+  {
+    "id": "c16",
+    "category_id": "01",
+    "title": "Polish Language Course",
+    "image_url": "https://ibb.co/j4Cnjtc",
+    "details": "Learning Polish can give you insight into thousands of years worth of history in Poland and other Eastern European countries. From wars, peace treaties, inventions, and religions, the clash of history that happened is a fascinating study. You can really understand Polish history if you speak the language"
+  },
+  {
+    "id": "c17",
+    "category_id": "02",
+    "title": "Latin language Course",
+    "image_url": "https://ibb.co/9YwbpBJ",
+    "details": "Students acquire the basic vocabulary, forms, and grammar necessary for reading and writing simple Latin selections. Some emphasis is placed on oral Latin as well. The course delves deeply into the relationship between Latin, English, and the Romance Languages."
+  }
+]

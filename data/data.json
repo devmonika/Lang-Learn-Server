@@ -1,0 +1,30 @@
+[
+    {
+      "id": "01",
+      "name": "Basic Course"
+    },
+    {
+      "id": "02",
+      "name": "Advance Course"
+    },
+    {
+      "id": "03",
+      "name": "Short Course"
+    },
+    {
+      "id": "04",
+      "name": "Course with Support"
+    },
+    {
+      "id": "05",
+      "name": "Free Course"
+    },
+    {
+      "id": "06",
+      "name": "Live Course"
+    },
+    {
+      "id": "07",
+      "name": "All Course"
+    }
+]
